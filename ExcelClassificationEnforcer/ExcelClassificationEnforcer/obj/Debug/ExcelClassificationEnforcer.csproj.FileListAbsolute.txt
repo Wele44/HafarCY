@@ -1,0 +1,15 @@
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\bin\Debug\ExcelClassificationEnforcer.dll
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\bin\Debug\ExcelClassificationEnforcer.pdb
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\bin\Debug\ExcelClassificationEnforcer.dll.manifest
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\bin\Debug\ExcelClassificationEnforcer.vsto
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.csproj.AssemblyReference.cache
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\Interop.Microsoft.Office.Core.dll
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.csproj.ResolveComReference.cache
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.Properties.Resources.resources
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.csproj.GenerateResource.cache
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.csproj.CoreCompileInputs.cache
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelCla.0093B1B2.Up2Date
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.dll
+C:\Users\mmalotaibi\source\repos\ExcelClassificationEnforcer\ExcelClassificationEnforcer\obj\Debug\ExcelClassificationEnforcer.pdb
